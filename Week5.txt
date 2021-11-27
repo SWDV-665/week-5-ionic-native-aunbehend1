@@ -1,0 +1,10 @@
+How many hours do you estimate you used completing this assignment?
+7
+
+What was easiest for you when completing this assignment?
+
+Recording the screencast
+
+What was the most difficult challenge you experienced when completing this assignment?
+
+Android studio, I am running on windows, I never figure out how to turn on virtualization in the Bios to get virtual machines running. 
